@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arbaazjafri
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...Data Science and tools.
+- 🌱 I’m currently learning ...Data Science, Data Analytics, Statistical tools, Pyhton, SQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email me on arbaazalijafri321@gmail.com
 
